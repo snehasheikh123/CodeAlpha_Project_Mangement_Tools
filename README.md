@@ -1,5 +1,5 @@
 # CodeAlpha_Project_Mangement_Tools
-Project Management System
+
 This Project Management System was developed as part of my internship at CodeAlpha. The system is designed to facilitate efficient team collaboration and task management, offering an intuitive platform where teams can seamlessly organize, track, and execute projects in real-time.
 
 Key Features
